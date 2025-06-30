@@ -40,3 +40,14 @@ A simple desktop GUI application built with **Python**, **Tkinter**, and **SQLit
 
 ```bash
 python note_saver.py
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ilbeykirbas/expense-app/blob/main/LICENSE) file for details.
+
+---
+
+## Author
+
+Developed by İlbey Kırbaş  
+GitHub: [@ilbeykirbas](https://github.com/ilbeykirbas)
