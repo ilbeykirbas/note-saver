@@ -45,7 +45,7 @@ python note_saver.py
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ilbeykirbas/expense-app/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ilbeykirbas/note-saver/blob/main/LICENSE) file for details.
 
 ---
 
