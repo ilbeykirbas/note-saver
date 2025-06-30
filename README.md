@@ -40,6 +40,8 @@ A simple desktop GUI application built with **Python**, **Tkinter**, and **SQLit
 
 ```bash
 python note_saver.py
+```
+---
 
 ## License
 
